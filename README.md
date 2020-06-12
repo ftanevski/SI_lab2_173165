@@ -4,5 +4,3 @@
 <hr>
 <h3>Група на код:</h3>
 Ја добив групата 4
-<h3>Control Flow Graphic</h3>
-<img src="cfg.png>"
